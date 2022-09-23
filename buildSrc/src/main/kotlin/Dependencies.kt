@@ -174,7 +174,7 @@ object Dependencies {
     }
 
     const val androidFhirCommon = "0.1.0-alpha03"
-    const val desugarJdkLibs = "1.1.5"
+    const val desugarJdkLibs = "2.0.0"
     const val fhirUcum = "1.0.3"
     const val guava = "28.2-android"
     const val hapiFhir = "5.4.0"
